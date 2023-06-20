@@ -1,0 +1,6 @@
+﻿  GameObject.cpp
+C:\Dev\Marble-Soccer\Marble-Soccer\GameObject.cpp(30,19): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Dev\Marble-Soccer\Marble-Soccer\GameObject.cpp(31,19): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Dev\Marble-Soccer\Marble-Soccer\GameObject.cpp(32,22): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Dev\Marble-Soccer\Marble-Soccer\GameObject.cpp(33,22): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  Marble-Soccer.vcxproj -> C:\Dev\Marble-Soccer\x64\Debug\Marble-Soccer.exe
