@@ -1,0 +1,23 @@
+# Object files
+*.o
+
+# Compiled files
+*.exe
+*.out
+
+# Build directory
+/build/
+
+# Visual Studio temporary files and build results
+**/[Dd]ebug/
+**/[Dd]ebugPublic/
+**/[Rr]elease/
+**/[Rr]eleases/
+**/[Xx]64/
+**/[Xx]86/
+**/[Bb]uild/
+**/[Bb]in/
+**/[Oo]bj/
+*.user
+*.suo
+*.userprefs
